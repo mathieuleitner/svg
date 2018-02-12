@@ -1,0 +1,23 @@
+/*===== SVG 1 ====*/
+#phone{height: 116px;}
+.phone{fill:#6BC6BE;}
+
+/*===== SVG 2 ====*/
+#chat{height: 100px;}
+.chat{fill:#6BC6BE}
+
+/*===== SVG 3 ====*/
+#iphone{height: 100px}
+.iphone{fill:#6BC6BE;}
+
+/*===== SVG 4 ====*/
+#bulle{height: 100px;}
+.bulleInside{fill:none;}
+.bulleOutside{fill:#6BC6BE;}
+
+/*===== Couleur de fond ====*/
+html {background: #0C0F36}
+
+/*===== Mise en page ====*/
+*{margin: 75px}
+
